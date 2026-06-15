@@ -38,3 +38,4 @@
     "node": "18.x"
   }
 }
+"postinstall": "playwright install",
